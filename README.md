@@ -21,14 +21,21 @@
 ### 
 
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://github.com/aissu-zeyn#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://github.com/aissu-zeyn#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aysu-zeynalova/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aysu-zeynalova/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/aissuzeyn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/aissuzeyn/#gh-dark-mode-only)
 
 
 
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <h4 align="left">Programming Languages:</h4>
 
