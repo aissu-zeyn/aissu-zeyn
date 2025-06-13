@@ -1,6 +1,6 @@
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aysu+Zeynalova;Passionate+Computer+Science+Student" alt="Passionate Computer Science Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=5500&pause=500&color=D9BED1&width=535&lines=Hello%2C+it's+Aysu+Zeynalova;Passionate+Computer+Science+Student" alt="Passionate Computer Science Student"/>
 </a>
 
 
