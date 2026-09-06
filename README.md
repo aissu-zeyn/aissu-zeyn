@@ -12,8 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aissu-zeyn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=9&order=5" height="250" alt="streak graph"  />
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aissu-zeyn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
